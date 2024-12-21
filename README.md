@@ -8,6 +8,8 @@ InviteToken is a simple and efficient ERC-20 smart contract designed to incentiv
 
 ## Contract Address
 0xDc65F5724c5CAdc81feAC18954d97E7482F5AF89
+![image](https://github.com/user-attachments/assets/df0e3975-1f5d-44a7-9e23-d0a8d249ebb6)
+
 
 ## Project Vision
 InviteToken aims to facilitate growth and engagement within decentralized ecosystems by providing a reliable and straightforward reward mechanism. It seeks to:
